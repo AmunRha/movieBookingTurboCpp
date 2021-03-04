@@ -1,7 +1,7 @@
 # movieBookingTurboCpp
 This is my school project made with couple of team mates[Link to them will be added soon]. This program allows a user to choose single/bulk ticket booking for a particular movie showing in a theatre. This was intended for Turbo C++ compiler. Too much graphics and ASCII animations in place XD
 
-NOTE: The Final code is in all_stages/Final.cpp
+NOTE: The Final code is in all_stages/FINAL.cpp
 
 ---
 
